@@ -1,0 +1,20 @@
+button{
+    height: 40px;
+    width: 40px;
+    flex: 1;
+}
+.row{
+    display: flex;
+    
+}
+#display{
+    display: flex;
+    font-size: larger;
+    
+
+}
+
+#calculator{
+    width: 200px;
+    border:1px, solid, black
+}
